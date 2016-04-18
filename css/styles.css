@@ -1,0 +1,49 @@
+body {
+	overflow-x:hidden;
+}
+.header-wrapper {
+	margin-bottom: 20px;
+}
+
+/*submit*/
+.submit-url-wrapper {
+	margin: 0 auto;
+	display: table;
+	width: 100%;
+}
+.submit-url-wrapper-2 {
+	margin: 0 auto;
+	display: table;
+	width: 100%;
+}
+
+.submit-url-input {
+	width: 50% !important;
+	display: inline;
+	margin-right: 10px;
+}
+.submit-url-wrapper button {
+	display: inline;
+	margin-bottom: 2px;
+}
+
+/*table*/
+#data-table_wrapper {
+	width: 98%;
+}
+
+
+/*utilities*/
+.left {
+	text-align: left;
+}
+.bold {
+	font-weight: bold;
+}
+.step {
+	position: absolute;
+	transition: opacity 1s;
+}
+.step-description {
+	margin-bottom: 10px;
+}
